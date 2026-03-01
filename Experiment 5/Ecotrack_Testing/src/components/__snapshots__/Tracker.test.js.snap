@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="activity-logger-container"
+  >
+    <header
+      class="logger-header"
+    >
+      <h2
+        class="logger-title"
+      >
+        Activity Log
+      </h2>
+      <span
+        class="logger-badge"
+      >
+        0 Records
+      </span>
+    </header>
+    <div
+      class="logger-controls"
+    >
+      <div
+        class="input-group"
+      >
+        <input
+          class="logger-input"
+          placeholder="Record a new activity..."
+          type="text"
+          value=""
+        />
+        <button
+          class="logger-submit-btn"
+        >
+          Submit
+        </button>
+      </div>
+    </div>
+    <div
+      class="logger-list-container"
+    >
+      <div
+        class="logger-empty-state"
+      >
+        No activities recorded.
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
